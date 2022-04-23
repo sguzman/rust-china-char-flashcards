@@ -1,0 +1,7 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = true
+[remote "origin"]
+	url = https://github.com/sguzman/rust-china-char-flashcards
+	fetch = +refs/heads/*:refs/remotes/origin/*
